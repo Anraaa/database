@@ -1,6 +1,8 @@
 ### How To Import SQL Project
 `docker exec -it container_name mysqldump -u root -p database_name > file_name.sql`
 
+___
+
 ### How To Enter MariaDB Mysql Via Docker
 `docker exec -it container_name mysql -u root -p`
 
