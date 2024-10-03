@@ -6,5 +6,5 @@ ___
 ### How To Enter MariaDB Mysql Via Docker
 `docker exec -it container_name mysql -u root -p`
 
-#### Docker Must Be Activated Or Build
+### Docker Must Be Activated Or Build
 `docker compose up -d --build`
